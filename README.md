@@ -17,3 +17,12 @@ npm run dev
 - [ ] Core feature
 - [ ] Payment integration
 - [ ] Production deployment
+
+## Progress (Iteration 2)
+- [x] Initial MVP
+- [ ] User authentication
+- [ ] Core feature
+- [ ] API integration
+- [ ] Payment integration
+- [ ] Testing
+- [ ] Production deployment
