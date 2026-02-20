@@ -58,3 +58,11 @@ npm run dev
 - [ ] Payment integration
 - [ ] Testing
 - [ ] Production deployment
+## Progress (Iteration 7)
+- [x] Initial MVP
+- [x] User authentication
+- [x] Core feature
+- [ ] API integration
+- [ ] Payment integration
+- [ ] Testing
+- [ ] Production deployment
