@@ -122,3 +122,11 @@ npm run dev
 - [ ] Payment integration
 - [ ] Testing
 - [ ] Production deployment
+## Progress (Iteration 5)
+- [x] Initial MVP
+- [x] User authentication
+- [ ] Core feature
+- [ ] API integration
+- [ ] Payment integration
+- [ ] Testing
+- [ ] Production deployment
